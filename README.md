@@ -1,7 +1,5 @@
-# About Me
-
-Hi, I'm Nguyễn Tuấn Anh.  
-I'm currently studying at HUST (Hanoi University of Science and Technology).  
+<h1 align="center">Hi 👋, I'm ntuanh</h1>
+<h3 align="center">I'm currently studying at HUST (Hanoi University of Science and Technology).</h3>  
 
 <!---
 ntuanh/ntuanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
