@@ -2,6 +2,7 @@
 <h3 align="center">I'm currently studying at HUST (Hanoi University of Science and Technology).</h3>  
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+
 <!---
 ntuanh/ntuanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -15,7 +16,7 @@ You can click the Preview link to take a look at your changes.
     srcset="https://github-readme-stats.vercel.app/api?username=ntuanh&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ntuanh&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ntuanh&show_icons=true&theme=tokyonight" />
 </picture>
 
 
