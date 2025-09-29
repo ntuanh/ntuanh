@@ -12,12 +12,12 @@
 - 📫 Contact me via email at <strong>ntuanh2705@gmail.com</strong><br><br>
 <!--- - 📄 Learn more about my background and experience <a href="#">...</a><br><br> --->
 
-<!--
+
 <a href="https://github.com/ntuanh/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ntuanh&show_icons=true&theme=tokyonight" /></a> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ntuanh&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
--->
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ntuanh&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
